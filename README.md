@@ -1,1 +1,1 @@
-# WinDynamicDesktop-iMac-themes
+Just double click the ddw files.
